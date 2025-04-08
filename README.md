@@ -1,6 +1,6 @@
 # **📘 Day-17: DevOps Basics – Operating Systems, Git & GitHub**
 
-Welcome to **Day-15** of our DevOps learning journey! Today we’re diving into three foundational pillars: **Operating Systems**, **Git**, and **GitHub**. Mastering these concepts will give you the confidence to navigate modern development environments with ease.
+Welcome to **Day-17** of our DevOps learning journey! Today we’re diving into three foundational pillars: **Operating Systems**, **Git**, and **GitHub**. Mastering these concepts will give you the confidence to navigate modern development environments with ease.
 
 ---
 
